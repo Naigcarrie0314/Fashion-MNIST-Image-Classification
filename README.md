@@ -3,7 +3,7 @@
 ## Google Collab Link Here: https://colab.research.google.com/drive/1KBjNR5Zajv-jh9Ltd5p_sIIuadWe9eQ8?usp=sharing
 
 1. What is the Fashion MNIST dataset?
-
+ 
 = Fashion MNIST dataset is a collecton of images designed as a modern alternative to the classic MNIST dataset for benchmarking machine learning models particularly in image classification tasks.
 
 2. Why do we normalize image pixel values before training?
